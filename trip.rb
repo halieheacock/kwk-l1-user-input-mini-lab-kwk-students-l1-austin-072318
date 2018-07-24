@@ -2,7 +2,7 @@ def HomeTownTrip
 
 puts "Let's plan your trip! Where would you like to stay? {#TheBeach}"
 
-puts "Where would you like to eat? {#EasyToGoTacos6}" 
+puts "Where would you like to eat? {#TacoShack}" 
 
 puts "How many nights would you like to stay? {#7 nights}"
 
